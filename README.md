@@ -1,7 +1,7 @@
 # sessions
 a pocket therapist for anxiety
 
-![screenshot](https://github.com/compagnb/)
+![screenshot](https://github.com/compagnb/sessions/blob/master/236_img_01.jpg)
 ![product shot](https://github.com/compagnb/)
 
 ## Abstract
