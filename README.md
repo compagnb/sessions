@@ -2,10 +2,11 @@
 a pocket therapist for anxiety
 
 ![screenshot](https://github.com/compagnb/sessions/blob/master/236_img_01.jpg)
-![product shot](https://github.com/compagnb/)
 
 ## Abstract
 Sessions is a therapeutic tool that combines alternative forms of therapy with the serenity of the ocean. Although research has proven that our realities are governed by the mind and can be altered as a result of certain anxiety disorders, it has also has proven that the mind desires clarity and can adapt to other natural rhythms if stimulated. Water has been linked to providing mental clarity throughout history – from ancient Roman/Greek bathhouses, to modern day beach/lake vacations. Through creating a mobile tool to combine proven forms of therapy, comprehensive biometric data, and a meditational retreat for over stimulation, Sessions is the pocket therapist for anxiety.
+
+![product shot](https://github.com/compagnb/sessions/blob/master/236_img_03.jpg)
 
 ## Use
 Sessions has two methods of use: everyday usage, allowing people with anxiety disorders to have access to treatments without a visit to a doctor’s office, and with a professional mental health provider.
@@ -16,8 +17,11 @@ When used with a mental health provider, equipment such as EEG’s are used in a
 
 Together, as a mobile clinical and mobile application, Sessions offers the user a comprehensive view of their own progress by wearing popular non-intrusive tracking devices without changing their daily routines. Currently, Sessions is being tested with a small group of individuals who have anxiety disorders ranging from PTSD to generalized anxiety.
 
+![product shot](https://github.com/compagnb/sessions/blob/master/final.jpg)
+
 ## [Videos](https://github.com/compagnb/thesis/tree/master/visualization/README.md)
    *  [Interview](https://player.vimeo.com/video/127937025?title=0&byline=0&portrait=0&autoplay=0&color=ffffff)
+   *  [Symposium](https:// )
    *  [Product Video](http://)
 
 ## [Link to WIP](https://sessions.parsons.edu)
@@ -26,10 +30,6 @@ Together, as a mobile clinical and mobile application, Sessions offers the user 
    *  [Desktop and Mobile Sample](http://sessions.parsons.edu/demos/session_ipad.html)
    *  [Google Cardboard Sample](http://sessions.parsons.edu/cardboard/)
    
-  
-   
-
-
 ## [Writing](https://github.com/compagnb)
 *   [Final Paper as google doc](https://docs.google.com/)
 *   [Final Paper in markdown](https://github.com/compagnb/)
