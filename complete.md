@@ -589,4 +589,3 @@ University of Maryland Medical Center. Biofeedback. 7 May 2013. 30 August 2014 <
 Vyas, A., S. Chattarji and S. Jadhav. "Prolonged Behavioral Stress Enhances Synaptic Connectivity In The Basolateral Amygdala." Neuroscience 143 (2006): 387–393.
 
 Williams, R. W. and K. Herrup. "The Control of Neuron Number." Annual Review of Neuroscience 11 (1988): 423-453.
-
