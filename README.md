@@ -27,15 +27,15 @@ Together, as a mobile clinical and mobile application, Sessions offers the user 
 ## [Link to WIP](https://sessions.parsons.edu)
 
 ## [Sample Application](https://github.com/compagnb)
+   *  [Work In Progress](http://sessions.parsons.edu)
    *  [Desktop and Mobile Sample](http://sessions.parsons.edu/demos/session_ipad.html)
    *  [Google Cardboard Sample](http://sessions.parsons.edu/cardboard/)
    
 ## [Writing](https://github.com/compagnb)
 *   [Final Paper as google doc](https://docs.google.com/)
-*   [Final Paper in markdown](https://github.com/compagnb/)
-*   [Final Table Of Contents](https://github.com/compagnb/)
-*   [Outline (Expanded)](https://github.com/compagnb)
-*   [Bibliography](https://github.com/compagnb)
+*   [Final Paper in markdown](https://github.com/compagnb/sessions/blob/master/complete.md)
+*   [Final Table Of Contents](https://github.com/compagnb/sessions/blob/master/toc.md)
+*   [Bibliography](https://github.com/compagnb/sessions/blob/master/readinglist.md)
 
 ## [Work](https://github.com/compagnb)
 *   [Concept Mind Maps](https://github.com/compagnb)
