@@ -42,19 +42,19 @@ Sessions is a therapeutic tool that combines alternative forms of therapy with t
    1.1 Motivations
    1.2 Concept
 ###  Domains & Precedents
-   2.1 Anxiety Disorders & Brain Functions
-   2.2 Earliest Records of Anxiety Disorders & Treatments 
-   2.3 Eastern Influences
-   2.4 Modern Day Treatments
-   2.5 Treating Anxiety Thru Non-Mobile Technology
-   2.6 Success of Persuasive Technology
-   2.7 Mobile Aides for Anxiety
+2.1 Anxiety Disorders & Brain Functions
+2.2 Earliest Records of Anxiety Disorders & Treatments 
+2.3 Eastern Influences
+2.4 Modern Day Treatments
+2.5 Treating Anxiety Thru Non-Mobile Technology
+2.6 Success of Persuasive Technology
+2.7 Mobile Aides for Anxiety
 ###  Methodology
-   3.1 Grid of Nine 
-   3.2 Prototypes
+3.1 Grid of Nine 
+3.2 Prototypes
 ###  Findings, Reflections, and Next Steps
-   4.1 Findings and Reflections
-   4.2 Next Steps
+4.1 Findings and Reflections
+4.2 Next Steps
 ###  Bibliography
 
 
@@ -66,8 +66,7 @@ Sessions is a therapeutic tool that combines alternative forms of therapy with t
 
 
 ## 1 INTRODUCTION
-
-*“I surf to both find myself and get away from myself. Surfing centers me. It lets me forget about the negative and focus in the positives in my life. It brings me back to reality.” –Andy Irons, I Surf Because (2010) *
+> *“I surf to both find myself and get away from myself. Surfing centers me. It lets me forget about the negative and focus in the positives in my life. It brings me back to reality.” –Andy Irons, I Surf Because (2010) *
 
 Marketers love to say, "Perception IS reality". Our “reality” is made up of our thoughts, emotional memories, and perceptions. Research has proven that our realities can be altered as a result of certain anxiety disorders. Sessions is a therapeutic tool that combines different forms of therapy intended for people with anxiety. Originating from a personal method of coping with anxiety, a visualization of the ocean is used as a representation of the users anxiety level. The ocean’s rhythmic movement and therapeutic tones are used as meditational tools to calm the user.  In mobile form, it provides the user with treatment when and where it is needed without an appointment with a mental health professional. As a clinical tool, this provides the most comprehensive treatment and view of progress. Through creating this mobile tool to combine proven forms of therapy with the serenity of the ocean, Sessions will also create an opportunity for meditational escape from overstimulation, which triggers anxiety.
 
