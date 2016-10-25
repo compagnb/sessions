@@ -94,10 +94,11 @@ The most common symptom within anxiety disorders is the feeling of fear. Normall
 
 The brain is genetically different for each person, causing some individuals to have a higher level of fear than others. In the average human body the largest portion of the brain is the Cerebral Cortex.  It contains anywhere from 15-33 billion neurons (Pelvig, Pakkenberg and Stark), which are connected by approximately 100 trillion synapses. (Williams and Herrup) Neurons communicate to one another using protoplasmic fibers, called dendrites and axons. They relay the signals for the brain to assert control over the body and all of its organs and functions.  The synapses have a variety of functions ranging from changing the chemistry of a cell to changing the stretching of signals that pass through them. (Sheperd, The Synaptic Organization of the Brain) The processing ability of our brain rests on this local communication. (Schnitzler, Alfons and Gross) The two parts of the brain that play a large part in the development of the feelings of fear and anxiety are amygdala and hippocampus. (National Institute of Mental Health)
 
-![Fig. 1 Diagram showing the parts of the brain provided by http://www.jaist.ac.jp](https://github.com/compagnb/thesis/blob/master/fig1.png) | ![Fig. 2 Diagram of neuron and synapse supplied by http://rapgenius.com](https://github.com/compagnb/thesis/blob/master/fig2.png) 
-*Fig. 1 Diagram showing the parts of the brain provided by http://www.jaist.ac.jp* | *Fig. 2 Diagram of neuron and synapse supplied by http://rapgenius.com*
+![Fig. 1 Diagram showing the parts of the brain provided by http://www.jaist.ac.jp (https://raw.githubusercontent.com/compagnb/sessions/master/fig1.png)
+*Fig. 1 Diagram showing the parts of the brain provided by http://www.jaist.ac.jp*
 
-
+![Fig. 2 Diagram of neuron and synapse supplied by http://rapgenius.com](https://raw.githubusercontent.com/compagnb/sessions/master/fig2.png) 
+*Fig. 2 Diagram of neuron and synapse supplied by http://rapgenius.com*
 
 
 The amygdala is almond-shaped and located deep within the medial temporal portion of the brain. The role of this portion of the brain is to act as a communications hub for deciphering and processing memories and emotional reactions. (Amunts, Kredo and Kindler) When a stimulus triggers a signal to the brain, this information is then processed through the lateral amygdala to the central nucleus.  (LeDoux ) The nucleus of the amygdala begins to send the rest of the brain signals to regulate the responses to the stimulus. (LeDoux ) When there are emotional memories present in the amygdala they are usually triggers for phobias. (LeDoux ) As a response to fear, this portion of the brain sends messages to the hypothalamus, which activates the fight or flight response as well as the release of stress hormones and glucocorticoids. (LeDoux )
