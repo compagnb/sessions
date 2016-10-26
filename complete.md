@@ -306,7 +306,7 @@ To begin, Sessions, formerly named brainwaves, was tested as a fully immersive e
 
 *1st Core Prototype:* To give the user the experience of being fully immersed by a barrel wave, two large blue plastic sheets were taped together with one end secured to the top of a fan. The fan was placed pointing upward about waist high. The speed of the fan is increased when the users anxiety is increased. At the peak of high anxiety the wave is blown into the shape of a barrel wave that is large enough that users can navigate through it. A skateboard was chosen as the means for the user to navigate through this space. A helmet is worn both for safety and to represent the biometric device in which the user will need to wear.
 
-|![Fig. 28 Photographs and diagram of barrel wave prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig25a.png)|
+|![Fig. 28 Photographs and diagram of barrel wave prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig25a.png) ![Fig. 28 Photographs and diagram of barrel wave prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig25b.png)|
 |---  |---  |
 |*Fig. 28 Photographs and diagram of barrel wave prototype.*|
 
@@ -314,9 +314,9 @@ Testing began with asking the user how they were feeling and adjusting the fan t
 
 Other feedback recorded led to the exploration of when this experience would be used, how people would use it, and what devices could be used to capture the necessary data without causing more anxiety.
 
-*2nd Core Prototype:* Modifications were made to the initial prototype to reflect the capturing of quantitative biometric data throughout the day. In this instance paper prototypes were made to help the user navigate throught the menu. The main menu begain with a login screen, this screen gave the user the ability to login with their own profile or to create a new one. Once logged in, the user was able tosyncronize new data collected to the database, revisit previous day’s data (as both game play and chart forms) and progress made, as well as view/play current data. A small headband was worn by the user to represent the Emotive Insight. When the user chose to play or view data the appropriate visual was shown on a larger 20x30 paper. Wave heights were created with recorded anxiety levels throughout the day while conditions of the tides were created by current biometrics. While test users enjoyed concept of feeling a release from revisiting high anxiety times to renavigate them calmer, many questioned how long game play would be since the data was recorded all day. It also did not appear many people would play this for more then ten minutes or so at the end of their days.
+*2nd Core Prototype:* Modifications were made to the initial prototype to reflect the capturing of quantitative biometric data throughout the day. In this instance paper prototypes were made to help the user navigate throught the menu. The main menu begain with a login screen, this screen gave the user the ability to login with their own profile or to create a new one. Once logged in, the user was able to syncronize new data collected to the database, revisit previous day’s data (as both game play and chart forms) and progress made, as well as view/play current data. A small headband was worn by the user to represent the Emotive Insight. When the user chose to play or view data the appropriate visual was shown on a larger 20x30 paper. Wave heights were created with recorded anxiety levels throughout the day while conditions of the tides were created by current biometrics. While test users enjoyed concept of feeling a release from revisiting high anxiety times to renavigate them calmer, many questioned how long game play would be since the data was recorded all day. It also did not appear many people would play this for more then ten minutes or so at the end of their days.
 
-|![Fig. 29 Photographs and map of menu for second core prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig25b.png)|
+|![Fig. 29 Photographs and map of menu for second core prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26a.png) ![Fig. 29 Photographs and map of menu for second core prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26b.png) ![Fig. 29 Photographs and map of menu for second core prototype. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26c.png)|
 |---  |---  |
 |*Fig. 29 Photographs and map of menu for second core prototype.*|
 
@@ -324,19 +324,19 @@ It became clear that although this was originally thought to be an immersive ins
 
 *1st Aesthetic Prototype:* As the presentation of this application became smaller, the visual grew more important. In a mobile application, there was not much room for the features that were originally planned. This required the interface to be broken down further only including the most essential functions. Using a photograph of an iPhone 4/5, a sample interface was pieced together using Adobe Photoshop and screengrabs of ocean footage taken earlier. This allowed the user to have a gateway to a realiztic looking ocean and enviornment.
 
-|![Fig. 30 Aesthetic prototypes for the mobile application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26a.png)|
+|![Fig. 30 Aesthetic prototypes for the mobile application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig27a.png) ![Fig. 30 Aesthetic prototypes for the mobile application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig27b.png)|
 |---  |---  |
 |*Fig. 30 Aesthetic prototypes for the mobile application*|
 
 Although the mobile application had the ability for users to access at any point, there needed to be a tracking system for the user to measure progress. Using a similar method, the mobile screen shots were created. This interface allowed the access to all the options of the original menu prototyped. The left side of the screen gave an indication of anxiety levels throughout a time period.  The right side offered an ocean visual for the specific time of day selected. Users were also able to replay their levels throughout the day by scroll through biometric data in wave form at the bottom of the screen. By selecting a period of time, the visual on the right changed to refect this. On the visual, there is a button to allow the user to play this period of time full screen with current biometric data to modify their conditions.
 
-|![Fig. 31 Aesthetic prototypes for the desktop application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26b.png)|
+|![Fig. 31 Aesthetic prototype for the desktop application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig28.png)|
 |---  |---  |
-|*Fig. 31 Aesthetic prototypes for the desktop application*|
+|*Fig. 31 Aesthetic prototype for the desktop application*|
 
 *1st Audience Prototype:* In order to test this concept along with the realistic look and feel, an audience prototype was created. Four different videos were chosen to represent different states of mind. These videos were both shot on a Sony AS30, as well as pulled from internet footage of hurricanes. After their import into Adobe Premire, they were edited into loops, so they could be played unending. Once each loop was created the videos were exported as a series of images. Using a batch function in Photoshop they were then resized to the aspect ratio of the iphone 5. Each set of video images were then organized into their own atlas folders and imported into an iOS application and coded to change with the use of a stepper button using Apple’s Software Development Kit (SDK). The user could change the view depending on how they were feeling. The higher the stepper button went, the more chaotic/stormy the waves looked. A sample interaction with this application can be found at: http://www.youtube.com/watch?v=1oR-ryMcKtU
 
-|![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26c.png)|
+|![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29a.png)![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29b.png)![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29c.png)![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29d.png)|
 |---  |---  |
 |*Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. *|
 
@@ -344,7 +344,7 @@ When testing this prototype, the videos did not play smoothly, causing some dela
 
 *1st Technology Prototype:* This iteration was designed for desktop viewing. Open Frameworks was used to simulate water movement using particles and springs. Once this wireframe was set up,  different forces for gravity, and current that could be used with biometric modifiers to create different wave shapes.  Sample video of this animation can be found at http://youtu.be/XRRbaAAyCiA
 
-|![Fig. 33 Screen grab of the particle and spring framework created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig27a.png)|
+|  |
 |---  |---  |
 |*Fig. 33 Screen grab of the particle and spring framework created.*|
 
@@ -352,7 +352,7 @@ Unfortunately, when modifiers were added the wave did not manipulate as desired.
 
 *2nd Technology Prototype:* To build the plane in order for it to be manipulated, it was constructed by a series of triangles, drawn as a wireframe in Open Frameworks. Perlin noise was then applied to each point in the mesh, updating the movement in each frame with time as a growing variable. At first, the noise was not representative of water, with modifications it slowly started to take a more natural form. This required the noise on each axis to be multiplied by a smaller percentage to create more subtle movements.  A sampling of each movement can be found at http://youtu.be/_eA7Ed7NwVo ,  http://youtu.be/eoXym0N06EM , and http://youtu.be/m3xxZFP2DOI
 
-|![Fig. 34 Screen grabs of the oscillating planes created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig27b.png)|
+||
 |---  |---  |
 |*Fig. 34 Screen grabs of the oscillating planes created.|
 
@@ -362,7 +362,7 @@ Although, the mesh’s flexibility for flowing movement increased, texturing it 
 
 A sample video of these shader noise effects can be found at http://youtu.be/2re1HWzp_LI and http://youtu.be/j034OMrfuv8
 
-|![Fig. 35 Screen grabs of 2 dimensional water shaders created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig28.png)|
+| |
 |---  |---  |
 |*Fig. 35 Screen grabs of 2 dimensional water shaders created.*|
 
@@ -370,7 +370,7 @@ After seeing how fast the shaders rendered it was clear that this was the route 
 
 *4th Technology Prototype:* This prototype began to explore using the iPhone’s processing ability to render and change these shaders and meshes as the application required.  A simple senerio was created using the iOS development version of Open Frameworks, utilizing a previous sketch created using the desktop version. In this program, a number of triangles were created to rotate around an invisible radius. The amount of  triangles and their color was conrolled with inputs from graphic user interface inputs. By increasing the triangles and changing the color, tested the immediate response and processing power of the iphone. A video of this processing test can be viewed at http://youtu.be/zcnTuWD48so
 
-|![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29a.png)![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29b.png)![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29c.png)![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29d.png)|
+|  |
 |---  |---  |
 |*Fig. 36 Screen grab of the iOS processing test application*|
 
