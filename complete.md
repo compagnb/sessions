@@ -154,8 +154,7 @@ Depending on the strength of these rhythms, some rhythms have been known to sync
 
 |![Fig. 7 Sample readings of physiological rhythms present in the body supplied by http://www.nature.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig7.png)|![Fig. 8 Diagram showing differences in brainwaves provided by http://artefuturo.blogspot.com/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig8.png)|
 |---  |---  |
-|*Fig. 7 Sample readings of physiological rhythms present in the body supplied by http://www.nature.com*
-|*Fig. 8 Diagram showing differences in brainwaves provided by http://artefuturo.blogspot.com/*|
+|*Fig. 7 Sample readings of physiological rhythms present in the body supplied by http://www.nature.com* |*Fig. 8 Diagram showing differences in brainwaves provided by http://artefuturo.blogspot.com/*|
 
 **Brainwave Entrainment.** The modifications of rhythms is the basis for Brainwave entrainment. This application of physiological rhythm modification is where users are subject to a tone to see if the brain would modify itself to synchronize with, thus changing the user’s state of mind. Arturo Manns – producing muscle relaxation, G. Solomon and D Anderson – revolving around migraines, did some of these studies and most recently, Joyce, Siever & Twittey improving attention and reaction time in the treatment of behavior disorders. (Donaldson-Evans)
 
