@@ -336,7 +336,7 @@ Although the mobile application had the ability for users to access at any point
 
 *1st Audience Prototype:* In order to test this concept along with the realistic look and feel, an audience prototype was created. Four different videos were chosen to represent different states of mind. These videos were both shot on a Sony AS30, as well as pulled from internet footage of hurricanes. After their import into Adobe Premire, they were edited into loops, so they could be played unending. Once each loop was created the videos were exported as a series of images. Using a batch function in Photoshop they were then resized to the aspect ratio of the iphone 5. Each set of video images were then organized into their own atlas folders and imported into an iOS application and coded to change with the use of a stepper button using Apple’s Software Development Kit (SDK). The user could change the view depending on how they were feeling. The higher the stepper button went, the more chaotic/stormy the waves looked. A sample interaction with this application can be found at: http://www.youtube.com/watch?v=1oR-ryMcKtU
 
-|![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29a.png)![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29b.png)![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29c.png)![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29d.png)|
+|![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29a.png) ![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29b.png) ![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29c.png) ![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29d.png)|
 |---  |---  |
 |*Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. *|
 
@@ -344,7 +344,7 @@ When testing this prototype, the videos did not play smoothly, causing some dela
 
 *1st Technology Prototype:* This iteration was designed for desktop viewing. Open Frameworks was used to simulate water movement using particles and springs. Once this wireframe was set up,  different forces for gravity, and current that could be used with biometric modifiers to create different wave shapes.  Sample video of this animation can be found at http://youtu.be/XRRbaAAyCiA
 
-|  |
+|![Fig. 33 Screen grab of the particle and spring framework created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig30a.png) ![Fig. 33 Screen grab of the particle and spring framework created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig30b.png)|
 |---  |---  |
 |*Fig. 33 Screen grab of the particle and spring framework created.*|
 
@@ -352,7 +352,7 @@ Unfortunately, when modifiers were added the wave did not manipulate as desired.
 
 *2nd Technology Prototype:* To build the plane in order for it to be manipulated, it was constructed by a series of triangles, drawn as a wireframe in Open Frameworks. Perlin noise was then applied to each point in the mesh, updating the movement in each frame with time as a growing variable. At first, the noise was not representative of water, with modifications it slowly started to take a more natural form. This required the noise on each axis to be multiplied by a smaller percentage to create more subtle movements.  A sampling of each movement can be found at http://youtu.be/_eA7Ed7NwVo ,  http://youtu.be/eoXym0N06EM , and http://youtu.be/m3xxZFP2DOI
 
-||
+|![Fig. 34 Screen grabs of the oscillating planes created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig31a.png) ![Fig. 34 Screen grabs of the oscillating planes created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig31b.png) ![Fig. 34 Screen grabs of the oscillating planes created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig31c.png)|
 |---  |---  |
 |*Fig. 34 Screen grabs of the oscillating planes created.|
 
@@ -362,7 +362,7 @@ Although, the mesh’s flexibility for flowing movement increased, texturing it 
 
 A sample video of these shader noise effects can be found at http://youtu.be/2re1HWzp_LI and http://youtu.be/j034OMrfuv8
 
-| |
+|![Fig. 35 Screen grabs of 2 dimensional water shaders created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig32a.png) ![Fig. 35 Screen grabs of 2 dimensional water shaders created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig32b.png)|
 |---  |---  |
 |*Fig. 35 Screen grabs of 2 dimensional water shaders created.*|
 
@@ -370,15 +370,15 @@ After seeing how fast the shaders rendered it was clear that this was the route 
 
 *4th Technology Prototype:* This prototype began to explore using the iPhone’s processing ability to render and change these shaders and meshes as the application required.  A simple senerio was created using the iOS development version of Open Frameworks, utilizing a previous sketch created using the desktop version. In this program, a number of triangles were created to rotate around an invisible radius. The amount of  triangles and their color was conrolled with inputs from graphic user interface inputs. By increasing the triangles and changing the color, tested the immediate response and processing power of the iphone. A video of this processing test can be viewed at http://youtu.be/zcnTuWD48so
 
-|  |
+|![Fig. 36 Screen grab of the iOS processing test application ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig33.png) |
 |---  |---  |
-|*Fig. 36 Screen grab of the iOS processing test application*|
+|*Fig. 36 Screen grab of the iOS processing test application *|
 
 Unfortunately, shaders are handled differently when dealing with mobile devices, due to the nature of their video controller. This requires further research.
 
 *5th Technology Prototype:* As technical knowledge was gained, the next test incorporated the use of textures onto a 3D plane. This plane was manipulated with the motion of a sin wave over time, and did not use external inputs. A second iteration of this prototype included the animation of the texture map used using the same algorhythm.  These texture animation tests can be found at https://www.youtube.com/watch?v=QtGdu09CP8I , http://youtu.be/oFFOVU-vH8A and https://www.youtube.com/watch?v=udWmkNzTDV4
 
-|![Fig. 37 Screen grab of the iOS water texture tests](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29b.png)|
+|![Fig. 37 Screen grab of the iOS water texture tests](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig34a.png)  ![Fig. 37 Screen grab of the iOS water texture tests](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig34b.png) ![Fig. 37 Screen grab of the iOS water texture tests](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig34c.png) ![Fig. 37 Screen grab of the iOS water texture tests](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig34d.png)  |
 |---  |---  |
 |*Fig. 37 Screen grab of the iOS water texture tests*|
 
@@ -387,17 +387,22 @@ Unfortunately, shaders are handled differently when dealing with mobile devices,
 
 Unfortunately, there were some large scale bugs in this prototype. The ofxThinkGear addon did not work with xCode 5.1, the version of xCode that was used to develop on thus far and the texture size and placement caused seems/pixelation in the texture map.
 
-*Fig. 35 Screen grab of the initial vertical slice*
+|![Fig. 38 Screen grab of the initial vertical slice](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig35a.png)  ![Fig. 38 Screen grab of the initial vertical slice](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig35b.png) ![Fig. 38 Screen grab of the initial vertical slice](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig35c.png)|
+|---  |---  |
+|*Fig. 38 Screen grab of the initial vertical slice*|
 
 *Playtech:* The vertical Slice was adapted into an iPad version as well and tested during Playtech, an event in which highschool children and their parents visit The New School to play test games in development. For each user interested, a Neurosky was placed on their head, and it was explained how it would gather brain activity. Headphones were also given to the user to wear. Then the application was turned on and “syncronized” with the head set worn by the user. Since the application was not set up to receive any external data, the user would see the simulation programmed in motion tests, the user was able to hear ambient water sound in this playtest.
 
 Although there was the Neurosky was not transmitting data, many users claimed to have made the wave become calmer or more active. A few users challenged each other to see who could get the waves more active. Not one user claimed it was only a simulation and not live brainwave data. Although a handfull of users felt like they was being over come by the waves. One also claimed to feel sea sick. While some users sat for a longer period of time, the majority of users did not exceed five minutes of interacting with this set up. All users who wore the headphone claimed to be relaxed before they left. The users who did not, had trouble focusing on the waves, and used the application very briefly.
 
-*Fig. 36 Photographs of high schoolers playtesting Sessions*
+|![Fig. 39 Photographs of high schoolers playtesting Sessions](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig36a.png)  ![Fig. 39 Photographs of high schoolers playtesting Sessions](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig36b.png) ![Fig. 39 Photographs of high schoolers playtesting Sessions](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig36c.png)|
+|---  |---  |
+|*Fig. 39 Photographs of high schoolers playtesting Sessions*|
 
 *Activity Monitor Comparrison:* Emotiv, Neurosky and Open BCI were all compared. Both Open BCI and Neurosky were tested hands on. Open BCI was eliminated because not only was it not Open Frameworks ready, but it was not consumer ready and required the use of wet sensors (making it hard for a user to wear daily without much effort). A Neurosky Mindwave Mobile was also obtained and tested. An Open Frameworks addon, called ofxThinkgear, made it easy to communucate data through bluetooth. The delay in transmission was problematic.  The Emotiv Insight was the top choice, as it was designed to be worn daily and also had compatibility to Open Frameworks. Unfortunately, its release date is late this year. Conversations to acquire one early on for prototyping were started, but it is unclear if Emotiv can meet the request. The Neurosky Mindwave Mobile was chosen to use in the interim.
 
 Similarly to the headset research, a side by side comparison was also made for the Gear Fit, Gear Live, Fit Bit, Up, iWatch and Basis. The Gear Fit was eliminated due to lack of documentation about its proprietary operating system. A Samsung Gear Live, running on Andriod Wear, came into my possestion. Research was started for development on this platform, but seemed it’s set up was complicated and clunky and there was not enough time to thouroughly investigate different applications to develop for andriod. The Up and Fit Bit did not have the capabilities to gather all the data neccessary. The iWatch was the ideal platform, even though it does not have a galvanic skin sensor. Since is not slated to release until early 2015, this is temporarily not an option for development. The Basis, the only tracker to have all of the necessary readings, was chosen as the activity tracker to pursue.
+
 
 *Fig. 37 Image of Fit BitbBiotracking device provided by FitBit*
 *Fig. 38 Image of Emotive’s new headset, Insight provided by Emotive*
