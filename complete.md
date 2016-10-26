@@ -403,16 +403,17 @@ Although there was the Neurosky was not transmitting data, many users claimed to
 
 Similarly to the headset research, a side by side comparison was also made for the Gear Fit, Gear Live, Fit Bit, Up, iWatch and Basis. The Gear Fit was eliminated due to lack of documentation about its proprietary operating system. A Samsung Gear Live, running on Andriod Wear, came into my possestion. Research was started for development on this platform, but seemed it’s set up was complicated and clunky and there was not enough time to thouroughly investigate different applications to develop for andriod. The Up and Fit Bit did not have the capabilities to gather all the data neccessary. The iWatch was the ideal platform, even though it does not have a galvanic skin sensor. Since is not slated to release until early 2015, this is temporarily not an option for development. The Basis, the only tracker to have all of the necessary readings, was chosen as the activity tracker to pursue.
 
-
-*Fig. 37 Image of Fit BitbBiotracking device provided by FitBit*
-*Fig. 38 Image of Emotive’s new headset, Insight provided by Emotive*
-*Fig. 39 Image of Adidas Micoach provided by Adidas*
+|![Fig. 40 Image of Fit BitbBiotracking device provided by FitBit](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig37.png)| ![Fig. 41 Image of Emotive’s new headset, Insight provided by Emotive](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig38.png) | ![Fig. 42 Image of Adidas Micoach provided by Adidas](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig39.png)|
+|---  |---  |---  |
+|*Fig. 40 Image of Fit BitbBiotracking device provided by FitBit*| *Fig. 41 Image of Emotive’s new headset, Insight provided by Emotive* | *Fig. 42 Image of Adidas Micoach provided by Adidas*|
 
 At the time, the research done around the biometric technologies seemed to be a success, but when these pieces were added to the veritcal slice prototype the research felt incomplete. The ofxThinkGear addon did not work with the newer version of xcode, and the tracker did not have an accessable API, as advertise.  Incorporating the information needed from these devices was problematic. More research was needed in order to make this aspect of this project a success.
 
 *Test Group:* The same prototype was also tested with select individuals diagnosed with anxiety disorders. Riley, who has generalized and situatonal anxiety, carried the beta version without external data input with him for a day. He was told that the data imported from his Basis model B1 activity tracker was creating the waves. During his use, he was bothered by the angle of horizon, explaining he felt like he was being over come by the waves.  He also wanted to be able to view the waves in horizontal view rather hen just a vertical form. The sound however calmed Riley so much he fell asleep while listening to it. Due to more severe anxiety disorders, other members of the test group will need supervision from professional mental health workers.
 
-*Fig. 40 Photographs of Riley playtesting Sessions*
+|![Fig. 43 Photographs of Riley playtesting Sessions](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig40.png)|
+|---  |
+|*Fig. 43 Photographs of Riley playtesting Sessions*|
 
 *6th Technology Prototype:* A gui was introduced into the test application to calculate the compensation needed to create the proper landscape view when rotated. The gui also aided in maping input to the wave’s features. A workaround to the ofxThinkGear was created. In order to have the Neurosky recognized as an input, the developer bundle supplied by Neurosky must be copied directly into the application. To do this, the debug file in the bin folder must be opened (as a directory), and the bundle must be copied into the Mac folder. A sample video of the Neurosky interacting with the 3d waves can be found at http://youtu.be/ErZKiFuU6TM
 
