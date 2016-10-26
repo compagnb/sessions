@@ -99,14 +99,9 @@ The amygdala is almond-shaped and located deep within the medial temporal portio
 
 The hippocampus is the sea horse shaped portion of the brain also located in the medial temporal lobe. Like the amygdala, the hippocampus regulates memories, but does not send out an emotional response. (Buzsaki ) This section encodes short-term memories into long term. These memories create anxiety when memories include trauma, causing post-traumatic stress disorder. (Buzsaki ) In some cases, people with anxiety disorders have been known to have a smaller hippocampus than others due to atrophy of the dendrites of the neurons that make up this portion of the brain. (Vyas, Chattarji and Jadhav) This damage to the dendrites is caused by the release of the glucocorticoids and limits the individual’s ability to use memories for the evaluation of stressors. (Vyas, Chattarji and Jadhav) This is why people with anxiety disorders may experience the feeling of fear without having any external stimulus.
 
-![Fig. 3 Diagram showing the Amygdala and Hippocampus in the human brain provided by http://guardianlv.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig3.png)
-
-###### *Fig. 3 Diagram showing the Amygdala and Hippocampus in the human brain provided by http://guardianlv.com*
-
-![Fig. 4 Diagram showing the Connections between Amygdala and hippocampus provided by http://guardianlv.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig4.png)
-
-###### *Fig. 4 Diagram showing the Connections between Amygdala and hippocampus provided by http://guardianlv.com*
-
+| ![Fig. 3 Diagram showing the Amygdala and Hippocampus in the human brain provided by http://guardianlv.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig3.png)    |  ![Fig. 4 Diagram showing the Connections between Amygdala and hippocampus provided by http://guardianlv.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig4.png)   |
+|---  |---  |
+| *Fig. 3 Diagram showing the Amygdala and Hippocampus in the human brain provided by http://guardianlv.com*    | *Fig. 4 Diagram showing the Connections between Amygdala and hippocampus provided by http://guardianlv.com*    |
 
 ###2.2 Earliest Records of Anxiety Disorders & Treatments.
 With an understanding how anxiety can affect one’s ‘reality’, we can now further explore the concept of altering one’s behavior as a remedy to this altered view of reality.
