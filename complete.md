@@ -137,9 +137,9 @@ Qi Gong, a meditative exercise, combines medical, spiritual and martial aspects 
 
 During the Ming dynasty, Chinese people began to use iron balls as tools to enhance their meditation. Each ball was approximately two inches in diameter. The exercise of using these balls as tools required the user to rotate two of these balls in the palm of one hand. The rotation should be even and a consistent distance should be kept between the balls. As a portable object these balls offered a tool for meditation that could be used anywhere, as the user needed them. This was one of the first mobile objects used to facilitate the management of anxiety. These meditation balls, currently known as Baoding Balls, are still used today for meditational purposes.
 
-![Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig6.png)
-
-###### *Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/*
+![Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig6a.png)
+![Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig6b.png)
+*Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/*
 
 Virtue, meditation and wisdom are seen as necessities in order to follow the path to enlightenment. Mantras, or words spoken to aide meditation, were believed to have sacred powers. In their earliest uses they were used to repel malign influences, but then evolved into guard spiritual life. Finally they once again evolved into salvation. Tibetan monks used these mantras as scriptures and tales of virtue. As a result from meditation, the mind is calmed - able to overcome obstacles and develops a deeper understanding – increasing wisdom. (Bodhi) These techniques have been in growing demand by modern psychologists and psychiatrists to aid in numerous health conditions including depression and anxiety. (Brach)
 
