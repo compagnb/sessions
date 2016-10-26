@@ -185,42 +185,37 @@ These treatments share a common theme of changing some aspect of behavior, eithe
 
 **Deepak Chopra’s Leela<sup>TM</sup>.** Deepak Chopra’s LeelaTM, developed by THQ games, is a video game for both Wii and Xbox platforms that utilizes user’s body gestures to create a meditational environment. Within this game there are two ways to create this aesthetic, chakra-based meditation and “ambient oasis”. (Deepak Chopra n.d.) Each chakra represents energy centers within different sections of the body. There are seven different skills included in each of the chakra meditations; these movements encourage the user to focus on both their breathing and body movements, allowing the body to enter a meditative/calm state. The “ambient oasis” (Deepak Chopra n.d.) is a guided meditation for the user to experience. By allowing the conditions (sound and visuals) of the environment to change, it inspires the user to adjust their body subconsciously to reach a higher sense of tranquility. Overall this game uses natural rhythms within the body, such as breathing, “to cultivate a more creative harmonious and balanced life through play.” (Deepak Chopra n.d.) A video of sample game play can be found at http://www.youtube.com/watch?v=_x_foicedKk
 
-![Screen grabs of Leela provided by https://gamernode.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig15a.png)
-![Screen grabs of Leela provided by https://gamernode.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig15b.png)
-![Screen grabs of Leela provided by https://gamernode.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig15c.png)
-
-###### *Fig. 15 Screen grabs of Leela provided by https://gamernode.com*
+|![Screen grabs of Leela provided by https://gamernode.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig15a.png) ![Screen grabs of Leela provided by https://gamernode.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig15b.png) ![Screen grabs of Leela provided by https://gamernode.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig15c.png)|
+|---  |
+|*Fig. 15 Screen grabs of Leela provided by https://gamernode.com*|
 
 **Flow.** Flow, developed by ThatGameCompany, is a Sony PlayStation (PS) and PC game in which the user controls the movements of a water-based organism through different levels of its environment. Within these levels the organism is able to consume other creatures, allowing for its own evolution as well as, allowing for its deeper journey through the game. Other organisms/creatures will attack it and diminish its growth. Once the organism finishes its journey through the depths of evolution, the user begins at the top layer again with a different organism. This gameplay is accompanied with a soothing instrumental increases the hydraulic presences within the game. Utilizing the advancements in development of the PS3 controllers, movements are made by shifting and rotating the controller in physical space. (Sony Playstation n.d.) A video of sample game play can be found at http://us.playstation.com/games/flow-ps3.html
 
-![Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig16a.png)
-![Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig16b.png)
-![Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig16c.png)
-
-###### *Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com*
+|![Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig16a.png) ![Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig16b.png) ![Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig16c.png)|
+|---  |
+|*Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com*|
 
 **Guru Meditation.** Guru Meditation began as a game for the traditional Atari VCS (2600) system. Users are encouraged to sit or stand quietly. As the user sits in a meditative crossed legged pose, they must remain perfectly still. As they remain in this position, the guru avatar rises. If the guru avatar begins to drop, indicating the user has moved; the user can recover by remaining still once more. When the avatar has levitated for a period of time a timer starts. In the traditional version, there are two ways to interact with this game; one is using the positioning of the Atari joystick controller, and the other a peripheral board for the users to sit on. (Bogost n.d.) This platform could not be tested for this study due to the rare peripherals and platform; instead the application for I-device (iPhone/iPad/iPod) development, recreated by Ian Bogost, was accessible. In that version the user must, as in the traditional version, must remain as quiet and still as possible. With thumbs pressed upon the screen, the avatar ascends and drops similar to the traditional game. This application does not allow the I-device to be utilized for other activities when playing, leaving the user disconnected from the “outside” stimuli introduced from an I-device normally. A video of sample game play can be found at http://www.youtube.com/watch?v=KN2BV7zo3tA
 
-![Fig. 17 Screen grabs of Guru Meditation provided by http://bogost.com/games/guru_meditation/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig17b.png)
-![Fig. 17 Screen grabs of Guru Meditation provided by http://bogost.com/games/guru_meditation/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig17c.png)
-
-###### *Fig. 17 Screen grabs of Guru Meditation provided by http://bogost.com/games/guru_meditation/*
+|![Fig. 17 Screen grabs of Guru Meditation provided by http://bogost.com/games/guru_meditation/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig17b.png) ![Fig. 17 Screen grabs of Guru Meditation provided by http://bogost.com/games/guru_meditation/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig17c.png)|
+|---  |
+|*Fig. 17 Screen grabs of Guru Meditation provided by http://bogost.com/games/guru_meditation/*|
 
 **Headspace.** Headspace is both an online application and a mobile application that uses meditation and mindfulness to train the mind for a healthier life. This tool maps out each users progress in a timeline, allowing for a personal attachment to the application as well as a clear visual of their goals and accomplishments. Once the user completes the foundation stage, they can pursue the completion of the health, performance, relationships and pro stages. In the relationship stage users are become more mindful of their own reaction to others. The health stage provides help for those with mental health problems, encouraging them to help themselves through meditation. This is all designed with light colors and simple vector based art. Two other features include SOS and On-The-Go. These features include exercises for emergencies and activities that can be done while commuting, or eating lunch. Notifications remind the user to utilize the meditational tools and journal their time. This application encourages community support by allowing users to track and encourage other’s progress.  As the user progresses in their goals and adds community as a subscribed member, they are rewarded with points that can be traded in for gift cards.
 
 Although this application did not have many users review it, it has received a 5 star rating in the iTunes store. Users have raved that its notifications have been able to keep them on schedule as well as teaching them skills needed to meditate. Users complained that the subscription was expensive, but the application was effective. An overview of the application can be viewed at https://www.youtube.com/watch?v=kEpOF7vUymc
 
-![Fig. 18 Screen grabs of Headspace provided by https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig18.png)
-
-###### *Fig. 18 Screen grabs of Headspace provided by https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl=en*
+|![Fig. 18 Screen grabs of Headspace provided by https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig18.png)|
+|---  |
+|*Fig. 18 Screen grabs of Headspace provided by https://play.google.com/store/apps/details?id=com.getsomeheadspace.android&hl=en*|
 
 **Basis Sync.** The Basis application is both a mobile and web based application for users to track and change their unhealthy habits. This application requires the users to wear the basis fitness tracker to record their biometric information throughout the day. The user then wirelessly synchronizes this information with the application. The application gives the user to have a unique insight on their own behaviors, providing tools to help them modify them. Habits the user wants to modify can are chosen through the application in exchange for points. Points are earned by completing the goals set for oneself through behavior change. The user can view the progress on these goals in addition to patterns and overviews of their own activities (and biometric readings). Although it is necessary to sign up for this service, the application and subscription are free.
 
 This application was given a 3 star rating in the iTunes store. Users felt the application was able to provide them with in-depth breakdowns of daily activates, but needed features to enhance technical difficulties.
 
-![Fig. 19 Screen grabs of Basis provided by https://play.google.com/store/apps/details?id=com.mybasis.android.basis&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig19.png)
-
-###### *Fig. 19 Screen grabs of Basis provided by https://play.google.com/store/apps/details?id=com.mybasis.android.basis&hl=en*
+|![Fig. 19 Screen grabs of Basis provided by https://play.google.com/store/apps/details?id=com.mybasis.android.basis&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig19.png)|
+|---  |
+|*Fig. 19 Screen grabs of Basis provided by https://play.google.com/store/apps/details?id=com.mybasis.android.basis&hl=en*|
 
 ###2.6 Success of Persuasive Technology.
 Behavior modification is similar to B.F. Skinner’s theory of operant conditioning. This theory was based off of Edward Thorndike’s Law of effect, or what is referred to as reinforcement. (Thorndike) Thorndike’s law states, if a behavior was followed by a feeling of satisfaction, this behavior would be repeated, if it was followed by an unpleasant feeling, the behavior would not be repeated. (Thorndike)
@@ -238,11 +233,9 @@ Equanimity Equanimity Meditation Timer & Tracker is a clear and simple meditatio
 
 Equanimity, ranked 4+ stars in the iTunes store, is one of the top meditational applications purchased. User’s appreciate that it is not intrusive, and simple to use. Other then some technical difficulties, users enjoy this application and feel as though it helps them consistently meditate.
 
-![Fig. 20 Screen grabs of Equanimity provided by https://itunes.apple.com/us/app/equanimity-meditation-timer/id351825794?mt=8](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig20a.png)
-
-![Fig. 20 Screen grabs of Equanimity provided by https://itunes.apple.com/us/app/equanimity-meditation-timer/id351825794?mt=8](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig20b.png)
-
-###### *Fig. 20 Screen grabs of Equanimity provided by https://itunes.apple.com/us/app/equanimity-meditation-timer/id351825794?mt=8*
+|![Fig. 20 Screen grabs of Equanimity provided by https://itunes.apple.com/us/app/equanimity-meditation-timer/id351825794?mt=8](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig20a.png) ![Fig. 20 Screen grabs of Equanimity provided by https://itunes.apple.com/us/app/equanimity-meditation-timer/id351825794?mt=8](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig20b.png)|
+|---  |
+|*Fig. 20 Screen grabs of Equanimity provided by https://itunes.apple.com/us/app/equanimity-meditation-timer/id351825794?mt=8*|
 
 **Breathe2Relax.** Breathe2Relax is a mobile application available on both Android and iOS devices that provides users with tools needed to manage their stress. Upon opening the app, the users is asked to customize their experience by selecting scenery, music, as well as timings for breathing. This application encourages the user to use diaphragmatic breathing, deep breathing which expands the stomach. This type of breathing exercise is frequently used in meditational exercises to help with mood stabilization, anger control, and to lower stress or anxiety. When the user presses the exercise button, they are asked to gage how they are feeling (stressed or calm) before the exercise begins. Once the exercise begins, images from the scenery they chose appear and change with each inhale/exhale. A bar on the side gauges the users breath by using the inhale times. There is an option to shorten or lengthen the times for both inhale and exhale as needed. Each time it is used the session is documented, and progress can be viewed by the user in the form of a graph. Similar to Sessions, Breathe2Relax was designed to be used as a stand-alone stress/anxiety reduction tool, or can be used with a professional heath care provider.
 
