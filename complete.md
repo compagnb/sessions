@@ -107,10 +107,12 @@ The amygdala is almond-shaped and located deep within the medial temporal portio
 The hippocampus is the sea horse shaped portion of the brain also located in the medial temporal lobe. Like the amygdala, the hippocampus regulates memories, but does not send out an emotional response. (Buzsaki ) This section encodes short-term memories into long term. These memories create anxiety when memories include trauma, causing post-traumatic stress disorder. (Buzsaki ) In some cases, people with anxiety disorders have been known to have a smaller hippocampus than others due to atrophy of the dendrites of the neurons that make up this portion of the brain. (Vyas, Chattarji and Jadhav) This damage to the dendrites is caused by the release of the glucocorticoids and limits the individual’s ability to use memories for the evaluation of stressors. (Vyas, Chattarji and Jadhav) This is why people with anxiety disorders may experience the feeling of fear without having any external stimulus.
 
 ![Fig. 3 Diagram showing the Amygdala and Hippocampus in the human brain provided by http://guardianlv.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig3.png)
-*Fig. 3 Diagram showing the Amygdala and Hippocampus in the human brain provided by http://guardianlv.com*
+
+###### *Fig. 3 Diagram showing the Amygdala and Hippocampus in the human brain provided by http://guardianlv.com*
 
 ![Fig. 4 Diagram showing the Connections between Amygdala and hippocampus provided by http://guardianlv.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig4.png)
-*Fig. 4 Diagram showing the Connections between Amygdala and hippocampus provided by http://guardianlv.com*
+
+###### *Fig. 4 Diagram showing the Connections between Amygdala and hippocampus provided by http://guardianlv.com*
 
 ###2.2 Earliest Records of Anxiety Disorders & Treatments.
 With an understanding how anxiety can affect one’s ‘reality’, we can now further explore the concept of altering one’s behavior as a remedy to this altered view of reality.
@@ -142,12 +144,14 @@ In Eastern Cultures meditation was key to keeping the body in balance. The earli
 Qi Gong, a meditative exercise, combines medical, spiritual and martial aspects of Chinese cultures to maintain health, heal ailments, calm the mind, and reconnect with the spirit. Medical aspects required one to use posture to enhance the effects of breathing techniques. When activities are done together one can achieve mental clarity. These exercises, similarly to acupuncture increase the qi energies and the others circulate it, rehabilitating the body. Movements are added to stances rhythmically to facilitate the reduction of stress, increase energy levels and build up the immune system. Similar to yoga and Pilates, Qi Gong has a positive effect on physiological systems, including but not limited to the circulatory, digestive, cardiac, respiratory and nervous systems.  Qi Gong has many styles; two more popular styles still used today include Tai Chi, as soft, ad Kung Fu, as more intense.
 
 ![Fig. 5 Diagram showing the Qi Gong stances provided by http://qigong15.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig5.png)
-*Fig. 5 Diagram showing the Qi Gong stances provided by http://qigong15.com*
+
+###### *Fig. 5 Diagram showing the Qi Gong stances provided by http://qigong15.com*
 
 During the Ming dynasty, Chinese people began to use iron balls as tools to enhance their meditation. Each ball was approximately two inches in diameter. The exercise of using these balls as tools required the user to rotate two of these balls in the palm of one hand. The rotation should be even and a consistent distance should be kept between the balls. As a portable object these balls offered a tool for meditation that could be used anywhere, as the user needed them. This was one of the first mobile objects used to facilitate the management of anxiety. These meditation balls, currently known as Baoding Balls, are still used today for meditational purposes.
 
 ![Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig6.png)
-*Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/*
+
+###### *Fig. 6 Image of Baoding Balls and diagram of hand acupuncture points provided by http://www.alquimiainterna.com/*
 
 Virtue, meditation and wisdom are seen as necessities in order to follow the path to enlightenment. Mantras, or words spoken to aide meditation, were believed to have sacred powers. In their earliest uses they were used to repel malign influences, but then evolved into guard spiritual life. Finally they once again evolved into salvation. Tibetan monks used these mantras as scriptures and tales of virtue. As a result from meditation, the mind is calmed - able to overcome obstacles and develops a deeper understanding – increasing wisdom. (Bodhi) These techniques have been in growing demand by modern psychologists and psychiatrists to aid in numerous health conditions including depression and anxiety. (Brach)
 
@@ -161,10 +165,12 @@ Today, anxiety disorders are treated with a number of different therapies. These
 Depending on the strength of these rhythms, some rhythms have been known to synchronize with other people’s rhythms surrounding them. Synchronization in physiological cycles has become a new way of treating patients with mental disorders and brain diseases including, but not limited to, anxiety, depression, insomnia, Parkinson’s disease, Huntington’s disease, cerebral palsy, Alzheimer’s disease, autism, traumatic brain injuries and strokes. (Thaut)
 
 ![Fig. 7 Sample readings of physiological rhythms present in the body supplied by http://www.nature.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig7.png)
-*Fig. 7 Sample readings of physiological rhythms present in the body supplied by http://www.nature.com*
+
+###### *Fig. 7 Sample readings of physiological rhythms present in the body supplied by http://www.nature.com*
 
 ![Fig. 8 Diagram showing differences in brainwaves provided by http://artefuturo.blogspot.com/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig8.png)
-*Fig. 8 Diagram showing differences in brainwaves provided by http://artefuturo.blogspot.com/*
+
+###### *Fig. 8 Diagram showing differences in brainwaves provided by http://artefuturo.blogspot.com/*
 
 **Brainwave Entrainment.** The modifications of rhythms is the basis for Brainwave entrainment. This application of physiological rhythm modification is where users are subject to a tone to see if the brain would modify itself to synchronize with, thus changing the user’s state of mind. Arturo Manns – producing muscle relaxation, G. Solomon and D Anderson – revolving around migraines, did some of these studies and most recently, Joyce, Siever & Twittey improving attention and reaction time in the treatment of behavior disorders. (Donaldson-Evans)
 
@@ -173,34 +179,48 @@ Depending on the strength of these rhythms, some rhythms have been known to sync
 **Holosync & Brainwave Music Therapy.** Both of these use binaural beats to influence the functions of the brain. Holosync presents the user with a combination of sound stimuli. These sounds consist of natural elements, such as water flow, and tonal values in the range of the brain waves. In studies these beats have been proven to have the ability to effect both spatial perception and stereo auditory recognition, resulting in increases in activity in various portions brain. (Dobie and Norton) Similarly, Brainwave Music Therapy follows the same concept of “frequency follows”. The difference with Brainwave Music Therapy is that the tones the patient listens to are generated from their own brain activity that has been recorded via Electroencephalography (EEG) during relaxed and alert states. The patient then listens to this music daily/nightly. The mind is able to recognize the audio as its own sound and slows down, soothing itself by its own sounds. Studies using this method with students experiencing anxiety, depression and insomnia demonstrated a success in relieving symptoms in 82-85% of students in Russia during the 1990s. (Brain Music Treatment Center) Recently, this method of therapy has been gaining popularity. All of this rhythmic data recorded from the body is known as biofeedback.
 
 ![Fig. 9 Woman using Brain Music connected to an EEG Photo By Lance Laytner, Edit International](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig9.png)
-*Fig. 9 Woman using Brain Music connected to an EEG Photo By Lance Laytner, Edit International*
+
+###### *Fig. 9 Woman using Brain Music connected to an EEG Photo By Lance Laytner, Edit International*
 
 ![Fig. 10 Holosync Music Cds provided by Sounds True](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig10.png)
-*Fig. 10 Holosync Music Cds provided by Sounds True*
+
+###### *Fig. 10 Holosync Music Cds provided by Sounds True*
 
 **Water/Ocean Therapy.** Water/hydro-therapy has been used throughout time dating back to Egyptian, Greek and Roman times. (Metcalfe, Life of Vincent Priessnitz, Founder of Hydropathy) In 1954, John C. Lilly, a neuro-psychiatrist, began using isolation tanks, which allowed the patient to be treated totally submerged in water. With modifications, the patients began floating in salt water, allowing the activity in the alpha and beta to subside and increase theta activity, which corresponds to calming sleep activity. (Lilly and Gold, Tanks for the Memories: Flotation Tank Talks Gateway Books & Tapes) Currently, many organizations have taken this concept and applied it to a larger scale, the ocean.
 In Wallace J. Nichols book Blue Mind, he immersed himself underwater wearing an Electroencephalography (EEG) device. The external stimulus of being underwater caused a series of changes in his biometric feedback. Hydrotherapy is not only used to treat anxiety but also, depression, autism, pain management, and sleep disorders. Wheels 2 Water is a non-profit organization that facilitates people with spinal cord injuries to experience surfing. (Testaverde Fund). The Jimmy Miller Foundation treats veteran soldiers who suffer from PTSD with a series of surf sessions followed by group therapy sessions on the beach afterward. (Jimmy Miller Foundation) Surfers For Autism organization specializes in treating children on the autistic spectrum. (Surfers for Autism) Many of their participants find a sense of ease because there is a consistent pattern in which the water behaves. Surf For All, which is run by the Skudin family in Long Beach, New York, encompasses all of these groups and does outreach for all people. (Skudin Surf)
 
-*Fig. 11 Image of book Blue Mind provided by Wallace J. Nichols*
+![Fig. 11 Image of book Blue Mind provided by Wallace J. Nichols*](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig11.png)
 
-*Fig. 12 Image of paralized people being taking into the ocean provided by Wheels 2 Water*
+###### *Fig. 11 Image of book Blue Mind provided by Wallace J. Nichols*
 
-*Fig. 13 Image Autistic chld surfing provided by Surf For All*
+![Fig. 12 Image of paralized people being taking into the ocean provided by Wheels 2 Water*](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig12.png)
+
+###### *Fig. 12 Image of paralized people being taking into the ocean provided by Wheels 2 Water*
+
+![Fig. 13 Image Autistic chld surfing provided by Surf For All*](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig13.png)
+
+###### *Fig. 13 Image Autistic chld surfing provided by Surf For All*
 
 **Electrotherapy.** Electrotherapy has been seen as a treatment for mental disorders throughout history. During the 18th Century Giovanni Aldini experimented with applying low intensity electrical stimulation to the galvanic head current. It was through these experiments, both on him-self and others, that he was able to successfully treat melancholy. (Zaghi, Acar and Hultgren) Modern day physicians still use this method of stimulation in the treatment of anxiety, depression and pain management by using a device known as an Alpha-Stim. The user places electrodes behind the bottom of their ears, and stimulates a portion of nerve endings in the brainstem. As the electrical currents stimulate these nerves triggering the release of serotonin, the chemical balance and electrical activity of the brain begins to alter. (Alpha-Stim) The change in these nerves behavior begins to affect others like a domino effect. (News Medical) This process, called neuromodulation, continues until the user reaches an alpha, or relaxed state.
 
-*Fig. 14 Image of Alpha-Stim and diagram of brain stimulations provided by http://www.alpha-stim.com/ *
+![Fig. 14 Image of Alpha-Stim and diagram of brain stimulations provided by http://www.alpha-stim.com/](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig14.png)
+
+###### *Fig. 14 Image of Alpha-Stim and diagram of brain stimulations provided by http://www.alpha-stim.com/ *
 
 ###2.5 Treating Anxiety Through Non-Mobile Technology.
 These treatments share a common theme of changing some aspect of behavior, either physiological or cognitive, to promote a healthier way of living with anxiety. The key to living a healthy life is one’s behavior. Recently, there has become a public push for living a healthy lifestyle, encouraging the public to use technology to aid their their life style change. This technology, designed to change human behavior through persuasuion and social influence, is known as Pervasive technology. Applications can be seen as pervasive technologies when they are used as tools, media and/or social actors. Before exploring the enviornment needed for a successful behavior to change, an exploration of technology used to aid in the treatment of anxiety is needed.
 
 **Deepak Chopra’s LeelaTM.** Deepak Chopra’s LeelaTM, developed by THQ games, is a video game for both Wii and Xbox platforms that utilizes user’s body gestures to create a meditational environment. Within this game there are two ways to create this aesthetic, chakra-based meditation and “ambient oasis”. (Deepak Chopra n.d.) Each chakra represents energy centers within different sections of the body. There are seven different skills included in each of the chakra meditations; these movements encourage the user to focus on both their breathing and body movements, allowing the body to enter a meditative/calm state. The “ambient oasis” (Deepak Chopra n.d.) is a guided meditation for the user to experience. By allowing the conditions (sound and visuals) of the environment to change, it inspires the user to adjust their body subconsciously to reach a higher sense of tranquility. Overall this game uses natural rhythms within the body, such as breathing, “to cultivate a more creative harmonious and balanced life through play.” (Deepak Chopra n.d.) A video of sample game play can be found at http://www.youtube.com/watch?v=_x_foicedKk
 
-*Fig. 15 Screen grabs of Leela provided by https://gamernode.com*
+![Screen grabs of Leela provided by https://gamernode.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig15.png)
+
+###### *Fig. 15 Screen grabs of Leela provided by https://gamernode.com*
 
 **Flow.** Flow, developed by ThatGameCompany, is a Sony PlayStation (PS) and PC game in which the user controls the movements of a water-based organism through different levels of its environment. Within these levels the organism is able to consume other creatures, allowing for its own evolution as well as, allowing for its deeper journey through the game. Other organisms/creatures will attack it and diminish its growth. Once the organism finishes its journey through the depths of evolution, the user begins at the top layer again with a different organism. This gameplay is accompanied with a soothing instrumental increases the hydraulic presences within the game. Utilizing the advancements in development of the PS3 controllers, movements are made by shifting and rotating the controller in physical space. (Sony Playstation n.d.) A video of sample game play can be found at http://us.playstation.com/games/flow-ps3.html
 
-*Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com*
+![Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig16.png)
+
+###### *Fig. 16 Screen grabs of Flow provided by http://www.thatgamecompany.com*
 
 **Guru Meditation.** Guru Meditation began as a game for the traditional Atari VCS (2600) system. Users are encouraged to sit or stand quietly. As the user sits in a meditative crossed legged pose, they must remain perfectly still. As they remain in this position, the guru avatar rises. If the guru avatar begins to drop, indicating the user has moved; the user can recover by remaining still once more. When the avatar has levitated for a period of time a timer starts. In the traditional version, there are two ways to interact with this game; one is using the positioning of the Atari joystick controller, and the other a peripheral board for the users to sit on. (Bogost n.d.) This platform could not be tested for this study due to the rare peripherals and platform; instead the application for I-device (iPhone/iPad/iPod) development, recreated by Ian Bogost, was accessible. In that version the user must, as in the traditional version, must remain as quiet and still as possible. With thumbs pressed upon the screen, the avatar ascends and drops similar to the traditional game. This application does not allow the I-device to be utilized for other activities when playing, leaving the user disconnected from the “outside” stimuli introduced from an I-device normally. A video of sample game play can be found at http://www.youtube.com/watch?v=KN2BV7zo3tA
 
