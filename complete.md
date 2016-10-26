@@ -133,8 +133,7 @@ In Eastern Cultures meditation was key to keeping the body in balance. The earli
 Qi Gong, a meditative exercise, combines medical, spiritual and martial aspects of Chinese cultures to maintain health, heal ailments, calm the mind, and reconnect with the spirit. Medical aspects required one to use posture to enhance the effects of breathing techniques. When activities are done together one can achieve mental clarity. These exercises, similarly to acupuncture increase the qi energies and the others circulate it, rehabilitating the body. Movements are added to stances rhythmically to facilitate the reduction of stress, increase energy levels and build up the immune system. Similar to yoga and Pilates, Qi Gong has a positive effect on physiological systems, including but not limited to the circulatory, digestive, cardiac, respiratory and nervous systems.  Qi Gong has many styles; two more popular styles still used today include Tai Chi, as soft, ad Kung Fu, as more intense.
 
 ![Fig. 5 Diagram showing the Qi Gong stances provided by http://qigong15.com](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig5.png)
-
-###### *Fig. 5 Diagram showing the Qi Gong stances provided by http://qigong15.com*
+*Fig. 5 Diagram showing the Qi Gong stances provided by http://qigong15.com*
 
 During the Ming dynasty, Chinese people began to use iron balls as tools to enhance their meditation. Each ball was approximately two inches in diameter. The exercise of using these balls as tools required the user to rotate two of these balls in the palm of one hand. The rotation should be even and a consistent distance should be kept between the balls. As a portable object these balls offered a tool for meditation that could be used anywhere, as the user needed them. This was one of the first mobile objects used to facilitate the management of anxiety. These meditation balls, currently known as Baoding Balls, are still used today for meditational purposes.
 
