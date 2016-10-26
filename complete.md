@@ -42,22 +42,19 @@ Sessions is a therapeutic tool that combines alternative forms of therapy with t
    1.2 Concept
 ###  2 Domains & Precedents
    2.1 Anxiety Disorders & Brain Functions
-         2.2 Earliest Records of Anxiety Disorders & Treatments
-         2.3 Eastern Influences
-         2.4 Modern Day Treatments
-         2.5 Treating Anxiety Thru Non-Mobile Technology
-         2.6 Success of Persuasive Technology
-         2.7 Mobile Aides for Anxiety
+   2.2 Earliest Records of Anxiety Disorders & Treatments
+   2.3 Eastern Influences
+   2.4 Modern Day Treatments
+   2.5 Treating Anxiety Thru Non-Mobile Technology
+   2.6 Success of Persuasive Technology
+   2.7 Mobile Aides for Anxiety
 ###  3 Methodology
-         3.1 Grid of Nine
-         3.2 Prototypes
+   3.1 Grid of Nine
+   3.2 Prototypes
 ###  4 Findings, Reflections, and Next Steps
-         4.1 Findings and Reflections
-         4.2 Next Steps
+   4.1 Findings and Reflections
+   4.2 Next Steps
 ###  Bibliography
-
-
-
 
 
 
@@ -80,6 +77,8 @@ Unfortunately, while surfing, for me, has been the most successful treatment for
 This application requires the user to wear an activity/biometric tracker to acquire anxiety levels throughout the day. As the user’s anxiety level begins to rise to a designated threshold, the user is notified to take a deep breath, allowing for him/her to be aware of their increasing level before it becomes a full-fledged attack. When the user is calmer, they will see a calmer display of waves, and as anxiety grows the waves get choppier. While the thought of someone seeing rougher waves seems like it may be more anxiety provoking, the use of light sounds of softer rain and water a calming constant.
 
 When used with a mental health provider, equipment such as EEG’s are used in addition to the accumulated data from every day use, to offer a more in depth and comprehensive treatment. Together, as a mobile clinical and mobile application, Sessions offers the user a comprehensive view of their own progress by wearing popular non-intrusive tracking devices without changing their daily routines. Currently, Sessions is being tested with a small group of individuals who have anxiety disorders ranging from PTSD to generalized anxiety.
+
+
 
 
 ## 2 DOMAINS & PRECEDENTS
