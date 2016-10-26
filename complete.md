@@ -241,7 +241,7 @@ Equanimity, ranked 4+ stars in the iTunes store, is one of the top meditational 
 
 Breathe2Relax has a 4+ star rating in the iTunes store. Many of the users have stated that it has helped them alleviate stress, but complain that calibrating times for breathing is a bit tricky. Users also documented audio and visual technical issues with the application.  An overview video of this application can be found at https://www.youtube.com/watch?v=AEZ1dvZuJYc
 
-|![Fig. 21 Screen grabs of Breathe2Relax provided by https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig21a.png)|
+|![Fig. 21 Screen grabs of Breathe2Relax provided by https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig21.png)|
 |---  |---  |
 |*Fig. 21 Screen grabs of Breathe2Relax provided by https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en*|
 
@@ -249,7 +249,7 @@ Breathe2Relax has a 4+ star rating in the iTunes store. Many of the users have s
 
 Although many users feel that this application is worthwhile to have on their devices, many want more information on how to alleviate the worry completely rather then just setting it aside. This application has a 4+ star rating on the Google store.
 
-|![Fig. 22 Screen grabs of Worry Box provided by https://play.google.com/store/apps/details?id=com.excelatlife.worrybox&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig21b.png)|
+|![Fig. 22 Screen grabs of Worry Box provided by https://play.google.com/store/apps/details?id=com.excelatlife.worrybox&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig21a.png)|
 |---  |---  |
 |*Fig. 22 Screen grabs of Worry Box provided by https://play.google.com/store/apps/details?id=com.excelatlife.worrybox&hl=en*|
 
@@ -257,7 +257,7 @@ Although many users feel that this application is worthwhile to have on their de
 
 Although this application has not received as many reviews on the iTunes store as the previous discussed applications, it has received a 4 star rating. The user reviews state that the application’s mantra is calming, but the cost of each session, and to download additional moods does not encourage users to continue use.
 
-|![Fig. 23 Screen grabs of I Can Be Fearless provided by https://play.google.com/store/apps/details?id=eu.hypnosis.android&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig22.png)|
+|![Fig. 23 Screen grabs of I Can Be Fearless provided by https://play.google.com/store/apps/details?id=eu.hypnosis.android&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig21b.png)|
 |---  |---  |
 |*Fig. 23 Screen grabs of I Can Be Fearless provided by https://play.google.com/store/apps/details?id=eu.hypnosis.android&hl=en*|
 
@@ -265,7 +265,7 @@ Although this application has not received as many reviews on the iTunes store a
 
 GPS for the Soul received a rating of 2 stars on the iTunes store. Users complained that the heart rate monitor was a useful feature to evaluate their feelings, and changed the effectiveness of the application. Others complained that the guides were often choppy and ended abruptly. Sample interaction with this application can be viewed at https://www.youtube.com/watch?v=4C14ik8TLQA
 
-|![Fig. 24 Screen grabs of  GPS for The Soul provided by https://play.google.com/store/apps/details?id=com.huffingtonpost.gpsforthesoul&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig23.png)|
+|![Fig. 24 Screen grabs of  GPS for The Soul provided by https://play.google.com/store/apps/details?id=com.huffingtonpost.gpsforthesoul&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig22.png)|
 |---  |---  |
 |*Fig. 24 Screen grabs of  GPS for The Soul provided by https://play.google.com/store/apps/details?id=com.huffingtonpost.gpsforthesoul&hl=en*|
 
@@ -275,19 +275,25 @@ GPS for the Soul received a rating of 2 stars on the iTunes store. Users complai
 ###3.1 Grid of Nine.
 The concept of Sessions originated as a series of projects. The baseline concept of using technology to manipulate one’s physiological abilities was broken down into three domains: biofeedback to offer insight into the brain and its functions, synchronizations of physiological rhythms to natural rhythms, and the utilization of light therapy to enhance performance. Each of these domains were broken down further asking how each could be explored, as well as in what form it would take.
 
-*Fig. 23 Biofeedback grid of nine*
+|![Fig. 25 Biofeedback grid of nine](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig23.png)|
+|---  |---  |
+|*Fig. 25 Biofeedback grid of nine*|
 
 Biometrics To Offer Insight Combining both biometric and ocean therapies, led me to the realization of a virtual surf game. In this game the user would wear a device that would store specific biofeedback from the brain, breath/heartrate, and temperature.  This data changes as the user responds to stimuli. The data is collected throughout the day until the user returns home and syncronizes the worn device to the surf game. The game’s imersive enviornment is controlled with the biofeedback taken throughout the day. Once at home the user has the option to play with live data or previously recorded data. If the user chooses to play a live session, the sound and speed in which each set of waves travel is based on current breath and heart rate. Brain data from high alpha and theta waves would control the conditions of the waves. As the user was more relaxed (increase of theta) the waves would be cleaner, when they were more anxious (increase of high alpha) the waves would be choppier. If the user chose to revisit a previously recorded data set, meditation levels throughout gameplay would need to maintain a high threshold for the conditions of the enviornment to calm. The creation of this virtual enviornment gives the user an opportunity to conquer “anxieties” and ride the waves to a feeling of release from the day. Users would keep track of progress and revisit previous data-sets as desired.
 
 This game leads the user to experience benefits of both biofeedback in therapy, as well as the benefits of Surf Therapy. The largest benefit to this game is that users are able to keep track of progress promoting a change in day to day behavior, making progress and use quantitative not just qualitative. The creation of a virtual wave artifact will offer insight as to how the user feels at a particular moment during the day, each dataset will conform to the norms of each player, not the norms of a larger population. Finally, game play gives the user an advantage over adversity by allowing control in the current moment to ride waves caused by daily stress with fair conditions. This gives the user a sence of release and accomplishment.
 
-*Fig. 24 Circadian Rhythms grid of nine*
+|![Fig. 26 Circadian Rhythms grid of nine](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig24.png)|
+|---  |---  |
+|*Fig. 26 Circadian Rhythms grid of nine*|
 
 Synchronizations of Physiological Rhythms The effects of musical tones on one’s biological rhythms, based off of biological rhythm studies and Brainwave Music Therapy, lead me to the exploration of recreating musical tone with our own body rhythms. In this realization I will construct a series of music boxes. One would be created using brainwave input to create the teeth, which would be played. Each channel of input would control a different note. The same is done for other body metrics such as breath and heart rate. All data taken from the body would be influenced by the audio rhythms of the ocean soundtrack. The final music box is created with data from the ocean waves (creating the soundtrack listened to), thus creating the connection between the body’s rhythms and natural rhythms of our environment.
 
 The effects of this piece are still unclear. Rhythmic changes to the body take an extended period of time exposed to new stronger rhythms, the data recorded may or may not synchronize with the ocean’s rhythm in the time allotted.
 
-*Fig. 24 Light therapy grid of nine*
+|![Fig. 27 Light therapy grid of nine](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig24a.png)|
+|---  |---  |
+|*Fig. 27 Light therapy grid of nine*|
 
 Utilization of Light Therapy In the circadian rhythm, light is critical. Light is the external cue for these instinctive, biological functions. An example of a cycle is the sleep/wake cycle. This cycle begins when the sun comes up and our bodies wake. While the sun is up humans exhibit moments of best coordination, alertness, etc. When the sun sets our bodies prepare for slumber. Sleep is just as important to the body as the wake time. Lack of sleep has lead to depression, anxiety and other mental disorders. (Armitage, Hoffmann and Rush, Biological rhythm disturbance in depression: temporal coherence of ultradian sleep EEG rhythms.) With this knowledge, I revisited forms of water/hydrotherapy that have been used throughout time, focusing on submersion and isoloation tanks. The final project concept was to recreate an isolation tank with the Occulus Rift. Sensors would be placed on extremedies to simulate the sound effects of movement within the tank.
 
@@ -300,7 +306,9 @@ To begin, Sessions, formerly named brainwaves, was tested as a fully immersive e
 
 *1st Core Prototype:* To give the user the experience of being fully immersed by a barrel wave, two large blue plastic sheets were taped together with one end secured to the top of a fan. The fan was placed pointing upward about waist high. The speed of the fan is increased when the users anxiety is increased. At the peak of high anxiety the wave is blown into the shape of a barrel wave that is large enough that users can navigate through it. A skateboard was chosen as the means for the user to navigate through this space. A helmet is worn both for safety and to represent the biometric device in which the user will need to wear.
 
-*Fig. 25 Photographs and diagram of barrel wave prototype.*
+|![Fig. 28 Photographs and diagram of barrel wave prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig25a.png)|
+|---  |---  |
+|*Fig. 28 Photographs and diagram of barrel wave prototype.*|
 
 Testing began with asking the user how they were feeling and adjusting the fan to blow the wave accordingly. Many users were apprehensive of riding the skateboard through the wave, even when they were lead slowly through. There was one user who just sat under the wave for an extended period of time. Although users were intrigued by the creation of the wave effect with the fan, not many people wanted to physically interact with the wave.
 
@@ -308,33 +316,45 @@ Other feedback recorded led to the exploration of when this experience would be 
 
 *2nd Core Prototype:* Modifications were made to the initial prototype to reflect the capturing of quantitative biometric data throughout the day. In this instance paper prototypes were made to help the user navigate throught the menu. The main menu begain with a login screen, this screen gave the user the ability to login with their own profile or to create a new one. Once logged in, the user was able tosyncronize new data collected to the database, revisit previous day’s data (as both game play and chart forms) and progress made, as well as view/play current data. A small headband was worn by the user to represent the Emotive Insight. When the user chose to play or view data the appropriate visual was shown on a larger 20x30 paper. Wave heights were created with recorded anxiety levels throughout the day while conditions of the tides were created by current biometrics. While test users enjoyed concept of feeling a release from revisiting high anxiety times to renavigate them calmer, many questioned how long game play would be since the data was recorded all day. It also did not appear many people would play this for more then ten minutes or so at the end of their days.
 
-*Fig. 26 Photographs and map of menu for second core prototype.*
+|![Fig. 29 Photographs and map of menu for second core prototype.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig25b.png)|
+|---  |---  |
+|*Fig. 29 Photographs and map of menu for second core prototype.*|
 
 It became clear that although this was originally thought to be an immersive installation type game it needed to be accessible to the target audience, without causing additional anxieties with the use of certain technologies, such as the Oculus. The combersome headgear in addition to biometric devices would certainly put anyone in an uncomfortable position regardless if they have anxiety. Yes! Honing in on the target audience needs, the piece took on its current pocket therapist application. The application became mobile, something that people could carry with them and use throughout the day, instead of just ten minutes or so at the end of their day.
 
 *1st Aesthetic Prototype:* As the presentation of this application became smaller, the visual grew more important. In a mobile application, there was not much room for the features that were originally planned. This required the interface to be broken down further only including the most essential functions. Using a photograph of an iPhone 4/5, a sample interface was pieced together using Adobe Photoshop and screengrabs of ocean footage taken earlier. This allowed the user to have a gateway to a realiztic looking ocean and enviornment.
 
-*Fig. 27 Aesthetic prototypes for the mobile application*
+|![Fig. 30 Aesthetic prototypes for the mobile application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26a.png)|
+|---  |---  |
+|*Fig. 30 Aesthetic prototypes for the mobile application*|
 
 Although the mobile application had the ability for users to access at any point, there needed to be a tracking system for the user to measure progress. Using a similar method, the mobile screen shots were created. This interface allowed the access to all the options of the original menu prototyped. The left side of the screen gave an indication of anxiety levels throughout a time period.  The right side offered an ocean visual for the specific time of day selected. Users were also able to replay their levels throughout the day by scroll through biometric data in wave form at the bottom of the screen. By selecting a period of time, the visual on the right changed to refect this. On the visual, there is a button to allow the user to play this period of time full screen with current biometric data to modify their conditions.
 
-*Fig. 28 Aesthetic prototypes for the desktop application*
+|![Fig. 31 Aesthetic prototypes for the desktop application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26b.png)|
+|---  |---  |
+|*Fig. 31 Aesthetic prototypes for the desktop application*|
 
 *1st Audience Prototype:* In order to test this concept along with the realistic look and feel, an audience prototype was created. Four different videos were chosen to represent different states of mind. These videos were both shot on a Sony AS30, as well as pulled from internet footage of hurricanes. After their import into Adobe Premire, they were edited into loops, so they could be played unending. Once each loop was created the videos were exported as a series of images. Using a batch function in Photoshop they were then resized to the aspect ratio of the iphone 5. Each set of video images were then organized into their own atlas folders and imported into an iOS application and coded to change with the use of a stepper button using Apple’s Software Development Kit (SDK). The user could change the view depending on how they were feeling. The higher the stepper button went, the more chaotic/stormy the waves looked. A sample interaction with this application can be found at: http://www.youtube.com/watch?v=1oR-ryMcKtU
 
-*Fig. 29 Screen Grabs of the four different anxiety and non-anxiety stages created. *
+|![Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. ](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig26c.png)|
+|---  |---  |
+|*Fig. 32 Screen Grabs of the four different anxiety and non-anxiety stages created. *|
 
 When testing this prototype, the videos did not play smoothly, causing some delayed reactions in enviornment changes. Also, some testers did not feel at ease with all the water transformations, as the anxiety and chaos rose, they felt more anxious not less. Two users suggested using a constant sound to subdue the anxiety that is provoked by the chaos created. To enhance the flow of the ocean, multiple technology prototypes were created. Both used different techniques to try and accomplish the same look.
 
 *1st Technology Prototype:* This iteration was designed for desktop viewing. Open Frameworks was used to simulate water movement using particles and springs. Once this wireframe was set up,  different forces for gravity, and current that could be used with biometric modifiers to create different wave shapes.  Sample video of this animation can be found at http://youtu.be/XRRbaAAyCiA
 
-*Fig. 30 Screen grab of the particle and spring framework created.*
+|![Fig. 33 Screen grab of the particle and spring framework created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig27a.png)|
+|---  |---  |
+|*Fig. 33 Screen grab of the particle and spring framework created.*|
 
 Unfortunately, when modifiers were added the wave did not manipulate as desired.  Moving forward, another iteration was created using a plane.
 
 *2nd Technology Prototype:* To build the plane in order for it to be manipulated, it was constructed by a series of triangles, drawn as a wireframe in Open Frameworks. Perlin noise was then applied to each point in the mesh, updating the movement in each frame with time as a growing variable. At first, the noise was not representative of water, with modifications it slowly started to take a more natural form. This required the noise on each axis to be multiplied by a smaller percentage to create more subtle movements.  A sampling of each movement can be found at http://youtu.be/_eA7Ed7NwVo ,  http://youtu.be/eoXym0N06EM , and http://youtu.be/m3xxZFP2DOI
 
-*Fig. 31 Screen grabs of the oscillating planes created.*
+|![Fig. 34 Screen grabs of the oscillating planes created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig27b.png)|
+|---  |---  |
+|*Fig. 34 Screen grabs of the oscillating planes created.|
 
 Although, the mesh’s flexibility for flowing movement increased, texturing it to add a realiztic look to water seemed problematic. Further investigation into shaders was needed.
 
@@ -342,19 +362,26 @@ Although, the mesh’s flexibility for flowing movement increased, texturing it 
 
 A sample video of these shader noise effects can be found at http://youtu.be/2re1HWzp_LI and http://youtu.be/j034OMrfuv8
 
-*Fig. 32 Screen grabs of 2 dimensional water shaders created.*
+|![Fig. 35 Screen grabs of 2 dimensional water shaders created.](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig28.png)|
+|---  |---  |
+|*Fig. 35 Screen grabs of 2 dimensional water shaders created.*|
 
 After seeing how fast the shaders rendered it was clear that this was the route to pursue. Further investigation is needed  into creating animated terrains with shaders inorder to create this piece. The largest issue left to address with technology was if this was feasible to create in a mobile application using open frameworks.
 
 *4th Technology Prototype:* This prototype began to explore using the iPhone’s processing ability to render and change these shaders and meshes as the application required.  A simple senerio was created using the iOS development version of Open Frameworks, utilizing a previous sketch created using the desktop version. In this program, a number of triangles were created to rotate around an invisible radius. The amount of  triangles and their color was conrolled with inputs from graphic user interface inputs. By increasing the triangles and changing the color, tested the immediate response and processing power of the iphone. A video of this processing test can be viewed at http://youtu.be/zcnTuWD48so
 
-*Fig. 33 Screen grab of the iOS processing test application*
+|![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29a.png)![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29b.png)![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29c.png)![Fig. 36 Screen grab of the iOS processing test application](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29d.png)|
+|---  |---  |
+|*Fig. 36 Screen grab of the iOS processing test application*|
 
 Unfortunately, shaders are handled differently when dealing with mobile devices, due to the nature of their video controller. This requires further research.
 
 *5th Technology Prototype:* As technical knowledge was gained, the next test incorporated the use of textures onto a 3D plane. This plane was manipulated with the motion of a sin wave over time, and did not use external inputs. A second iteration of this prototype included the animation of the texture map used using the same algorhythm.  These texture animation tests can be found at https://www.youtube.com/watch?v=QtGdu09CP8I , http://youtu.be/oFFOVU-vH8A and https://www.youtube.com/watch?v=udWmkNzTDV4
 
-*Fig. 34 Screen grab of the iOS water texture tests*
+|![Fig. 37 Screen grab of the iOS water texture tests](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig29b.png)|
+|---  |---  |
+|*Fig. 37 Screen grab of the iOS water texture tests*|
+
 
 *1st Vertical Slice:* To portray this application as a theraputic application, it was necessary to include sound. An ambience of beach and wave sounds were mixed using a free online sound library freesfx, and Protools. After exporting the mixed sound files as mp3 files, they were imported into the iOS OpenFrameworks programs. Next a new texture was added to have the appearance of  more authentic water.
 
