@@ -35,14 +35,13 @@ Sessions is a therapeutic tool that combines alternative forms of therapy with t
 
 
 
-
 ## Table of Contents:
 
 ###  1 Introduction
-         1.1 Motivations
-         1.2 Concept
+   1.1 Motivations
+   1.2 Concept
 ###  2 Domains & Precedents
-         2.1 Anxiety Disorders & Brain Functions
+   2.1 Anxiety Disorders & Brain Functions
          2.2 Earliest Records of Anxiety Disorders & Treatments
          2.3 Eastern Influences
          2.4 Modern Day Treatments
