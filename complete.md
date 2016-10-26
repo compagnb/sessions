@@ -241,25 +241,33 @@ Equanimity, ranked 4+ stars in the iTunes store, is one of the top meditational 
 
 Breathe2Relax has a 4+ star rating in the iTunes store. Many of the users have stated that it has helped them alleviate stress, but complain that calibrating times for breathing is a bit tricky. Users also documented audio and visual technical issues with the application.  An overview video of this application can be found at https://www.youtube.com/watch?v=AEZ1dvZuJYc
 
-*Fig. 21 Screen grabs of Breathe2Relax provided by https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en*
+|![Fig. 21 Screen grabs of Breathe2Relax provided by https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig21a.png)|
+|---  |---  |
+|*Fig. 21 Screen grabs of Breathe2Relax provided by https://play.google.com/store/apps/details?id=org.t2health.breathe2relax&hl=en*|
 
 **Worry Box.** This Android only application, Worry Box, allows the users to lock their anxieties away in a virtual box, to leave them free from these worries. Similar to a journal application, the user will type in the answers to a series of questions in a form like interface. Some questions include: titling the worry, description, and listing coping techniques. This form walks the user from a personal point of view to a distant one, allowing the worry to be set aside instead of consuming the user. Once the form has been completed the user can lock it away in their virtual worry box. Although the box is locked with a password for the user’s protection, these worries can be reviewed at any time. The application also gives the user the option of listening to calming music to encourage meditational techniques, such as but not limited to deep breathing.
 
 Although many users feel that this application is worthwhile to have on their devices, many want more information on how to alleviate the worry completely rather then just setting it aside. This application has a 4+ star rating on the Google store.
 
-*Fig21. Screen grabs of Worry Box provided by https://play.google.com/store/apps/details?id=com.excelatlife.worrybox&hl=en*
+|![Fig. 22 Screen grabs of Worry Box provided by https://play.google.com/store/apps/details?id=com.excelatlife.worrybox&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig21b.png)|
+|---  |---  |
+|*Fig. 22 Screen grabs of Worry Box provided by https://play.google.com/store/apps/details?id=com.excelatlife.worrybox&hl=en*|
 
 **I Can Be Fearless.** I Can Be Fearless is another mobile application geared at self-help and improvements. This application requires the user to download session content pertaining to their area of self-improvement. For anxiety and stress relief, users listen to a man’s calming voice repeats a mantra encouraging the user to relax. This guided meditation, explains how listening can relax the muscles, as well as the brain reaction to conscious and unconscious listening. Additional ambience sounds that can be played in addition to his voice can also be downloaded. This application can be used without an account, but if the user creates an account they are able to increase their level each time they listen to the mantra. In addition to increasing levels, creating a profile allows the user a deeper insight by allowing them to view a log, and personal statistics.
 
 Although this application has not received as many reviews on the iTunes store as the previous discussed applications, it has received a 4 star rating. The user reviews state that the application’s mantra is calming, but the cost of each session, and to download additional moods does not encourage users to continue use.
 
-*Fig. 21 Screen grabs of I Can Be Fearless provided by https://play.google.com/store/apps/details?id=eu.hypnosis.android&hl=en*
+|![Fig. 23 Screen grabs of I Can Be Fearless provided by https://play.google.com/store/apps/details?id=eu.hypnosis.android&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig22.png)|
+|---  |---  |
+|*Fig. 23 Screen grabs of I Can Be Fearless provided by https://play.google.com/store/apps/details?id=eu.hypnosis.android&hl=en*|
 
 **GPS for the Soul.** GPS for the soul offers guided meditations in the form of a mobile application for both iOS and Android users. This application originally required users to gauge their stress levels by using a heart rate monitor before using the guided mediation features. With a recent upgrade, this is no longer a feature. Now upon the start of this application, a simple menu allows users to choose between creating a custom guide and viewing a prefabricated guide. If the user chooses to view, a new menu appears that lists different guides with a description and still image alongside the author’s name. The background consists of a sky image with shades of light green animating through it. Once the user chooses a guide, by tapping on it, the guide loads and plays. Images with inspirational type appear on the screen, a subtle circle can be seen on the edges of the screen, and becomes larger and smaller as if it was breathing with the user. Transitions between the images and type are not always smooth. Each session is brief and lasts about 1 – 2 minutes. Once the guide has completed, a screen appears telling the user the guide has been completed and allows the user to share the guide with others. The guides included all center on nature and play off the concept of harmony and balance. The activity feed, encourages connection to others for support by inviting users to view others feelings and recommendations for guides.
 
 GPS for the Soul received a rating of 2 stars on the iTunes store. Users complained that the heart rate monitor was a useful feature to evaluate their feelings, and changed the effectiveness of the application. Others complained that the guides were often choppy and ended abruptly. Sample interaction with this application can be viewed at https://www.youtube.com/watch?v=4C14ik8TLQA
 
-*Fig. 22 Screen grabs of  GPS for The Soul provided by https://play.google.com/store/apps/details?id=com.huffingtonpost.gpsforthesoul&hl=en*
+|![Fig. 24 Screen grabs of  GPS for The Soul provided by https://play.google.com/store/apps/details?id=com.huffingtonpost.gpsforthesoul&hl=en](https://raw.githubusercontent.com/compagnb/sessions/master/imgs/fig23.png)|
+|---  |---  |
+|*Fig. 24 Screen grabs of  GPS for The Soul provided by https://play.google.com/store/apps/details?id=com.huffingtonpost.gpsforthesoul&hl=en*|
 
 
 ##3 METHODOLOGY
