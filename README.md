@@ -21,8 +21,8 @@ Together, as a mobile clinical and mobile application, Sessions offers the user 
 
 ## Videos
    *  [Interview](https://player.vimeo.com/video/127937025?title=0&byline=0&portrait=0&autoplay=0&color=ffffff)
-   *  [Symposium](https:// )
-   *  [Product Video](http://)
+   *  [Symposium](https://drive.google.com/file/d/0B7Q2btjMB9GsM2NsNHBFcGVkZ2c/view?usp=sharing)
+   *  [Product Video](https://drive.google.com/file/d/0B7Q2btjMB9GsbWpqRWxydEY1c2c/view?usp=sharing)
 
 ## Work In Progress & Viewing Samples
    *  [Work In Progress](http://sessions.parsons.edu)
@@ -30,9 +30,12 @@ Together, as a mobile clinical and mobile application, Sessions offers the user 
    *  [Google Cardboard Sample](http://sessions.parsons.edu/cardboard/)
    
 ## Writing & Research
-*   [Final Paper as google doc](https://docs.google.com/)
+*   [Final Paper as word doc](https://drive.google.com/file/d/0B8WFhyh4bomLZVVndGhKaXI3U0U/view?usp=sharing)
+*   [Final Paper as pdf](https://drive.google.com/file/d/0B8WFhyh4bomLREtYcl9Jcnhlanc/view?usp=sharing)
 *   [Final Paper in markdown](https://github.com/compagnb/sessions/blob/master/complete.md)
 *   [Final Table Of Contents](https://github.com/compagnb/sessions/blob/master/toc.md)
 *   [Bibliography](https://github.com/compagnb/sessions/blob/master/readinglist.md)
 
-## Work
+## Help & Testing
+*   [Beta testing](https://docs.google.com/forms/d/1u5BJudyv3VxvJ-cLu1XJaiZtA5es8aany4fYWRc_VC8/edit?usp=sharing)
+*   [Clinical testing](https://docs.google.com/forms/d/1iPdDESCNtvpYDIjXLvrMmh_0OsEO6xSPs2FZiMemdWI/edit?usp=sharing)
